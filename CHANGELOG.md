@@ -8,3 +8,6 @@
 ### Fixed
 - Sửa lỗi giỏ hàng chấp nhận đĩa thứ 21 (Issue #6)[cite: 37, 38]
 - Cập nhật logic tính toán chiết khấu và giỏ hàng[cite: 39]
+
+## [1.0.1] - 2026-11-2
+Đã nâng cấp
