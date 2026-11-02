@@ -24,7 +24,12 @@ class Cart:
         return False
 
     def total_cost(self):
+<<<<<<< HEAD
+        print("Calculating total cost with discount...")
         return sum(item.cost for item in self.items)
+=======
+        return sum(item.cost for item in self.items)*0.8
+>>>>>>> a09dcfc118b928d289fb6bf35442134842a0f9d8
     def print_cart(self):
         print("***********************CART***********************")
         print("Ordered Items:")
